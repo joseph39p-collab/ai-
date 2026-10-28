@@ -1,0 +1,6 @@
+{
+  "name": "씨네파인더",
+  "description": "위치 기반 영화관 다중 필터 검색 및 특수관(IMAX, 4DX, 돌비) 예매 연결 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
